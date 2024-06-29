@@ -1,5 +1,7 @@
 #A program to create and print a tuple
 
+# Tuples can have multiple data types
+
 t = (2, 7, 88, 45) #may or may not use () for tuples
 print(t)
 # t[1]=89 #can't change the value of tuple will result in error
