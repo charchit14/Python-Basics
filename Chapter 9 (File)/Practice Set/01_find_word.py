@@ -1,4 +1,4 @@
-#WAP to read a text from a file and find out whether it contains the word 'Twinkle'
+# WAP to read a text from a file and find out whether it contains the word 'Twinkle'
 
 f = open("C:\\Users\\charc\\Desktop\\Learning Python\\Chapter 9 (File)\\Practice Set\\poem.txt","r")
 x = f.read()

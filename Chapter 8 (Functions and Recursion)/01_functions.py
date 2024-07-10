@@ -1,12 +1,12 @@
-#Creating a function and using it
-#A function can take multiple values as well
+# Creating a function and using it
+# A function can take multiple values as well
 
-#creating a function
+# creating a function
 def percent(mark):
     a = (sum(mark)/4)
     return a 
 
-#using the function
+# using the function
 mark1=[45, 56, 78, 89]
 p1=percent(mark1)
 

@@ -1,6 +1,6 @@
-#Basics of File (opening, reading, and closing)
+# Basics of File (opening, reading, and closing)
 
-#Using open function to read a file
+# Using open function to read a file
 
 # f = open("C:\\Users\\charc\\Desktop\\Learning Python\\Chapter 9 (File)\\sample.txt", "r")
 

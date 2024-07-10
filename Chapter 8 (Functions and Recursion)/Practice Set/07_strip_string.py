@@ -1,6 +1,6 @@
-#WAP to remove a given word from a string and strip it at the same time
+# WAP to remove a given word from a string and strip it at the same time
 
-# #Showing the use of strip function
+# Showing the use of strip function
 # a = "       Hey   Bro        "
 # print(a)
 # print(a.strip())

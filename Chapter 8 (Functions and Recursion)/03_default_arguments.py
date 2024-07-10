@@ -1,4 +1,4 @@
-#Showing how a default arguement can be passed into a fucntion and using it
+# Showing how a default arguement can be passed into a fucntion and using it
 
 def greet(name="Ghost"):
     print("Hello!", name)

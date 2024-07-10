@@ -1,6 +1,6 @@
-#A program to calculate factorial using function and recursion
+# A program to calculate factorial using function and recursion
 
-#Firstly, factorial using a function
+# Firstly, factorial using a function
 
 # def factorial(n):
 #     f=1 
@@ -13,9 +13,9 @@
 # a= factorial(b)
 # print("The factorial is: ", a)
 
-#Now, factorial using reursion
-#Recursion is used to directly call a mathematical formula using a function
-#We know, n! = n * (n-1)!
+# Now, factorial using reursion
+# Recursion is used to directly call a mathematical formula using a function
+# We know, n! = n * (n-1)!
 
 def factorial(n):
     if n==0:

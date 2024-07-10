@@ -1,4 +1,4 @@
-#Create a function to greet a user
+# Create a function to greet a user
 
 def greet():
     return ("Good Day!")
@@ -9,7 +9,7 @@ print(f,a)
 
 # print(greet(),a)
 
-#Another Way
+# Another Way
 # def greet(name):
 #     print("Good Day!", name)
 # name=input("Enter your name: ")

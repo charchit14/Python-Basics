@@ -1,4 +1,4 @@
-#WAP to print first n lines of the following pattern
+# WAP to print first n lines of the following pattern
 '''
 ***
 **

@@ -1,4 +1,4 @@
-# #Write a function to generate a multiplication table using a function
+# Write a function to generate a multiplication table using a function
 
 def mult(a):
      for i in range (1,11):
@@ -10,7 +10,7 @@ print("The multiplication table is:")
 m=mult(n)
 
 
-#To print in list
+# To print in list
 
 # def mult(a):
 #     table = []
